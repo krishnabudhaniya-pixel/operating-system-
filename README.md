@@ -411,8 +411,7 @@ rules.
 
 **Krishna Budhaniya**
 
-- GitHub: 
-- Repository: 
+- GitHub:https://github.com/krishnabudhaniya-pixel/operating-system- 
 
 <p align="center">
   <a href="#operating-system-programs">⬆️ Back to top</a>
