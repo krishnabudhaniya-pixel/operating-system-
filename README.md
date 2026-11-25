@@ -160,12 +160,6 @@ repository documentation.
 - Bash for the optional sample scripts
 - A POSIX-compatible environment for `fork()`, pthreads, and semaphores
 
-### Clone the repository
-
-```bash
-git clone https://github.com/Jeania-2k5/Operating_System_Programs.git
-cd Operating_System_Programs
-```
 
 No external libraries are required beyond the standard C library and the
 POSIX interfaces provided by the target operating system.
